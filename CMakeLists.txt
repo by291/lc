@@ -14,3 +14,9 @@ add_executable(15 15.cc)
 
 add_executable(3 3.cc)
 add_executable(438 438.cc)
+
+add_executable(560 560.cc)
+add_executable(53 53.cc)
+add_executable(56 56.cc)
+add_executable(189 189.cc)
+add_executable(238 238.cc)
