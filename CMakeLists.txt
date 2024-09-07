@@ -40,3 +40,6 @@ add_executable(148 148.cc)
 add_executable(23 23.cc)
 add_executable(146 146.cc)
 add_executable(94 94.cc)
+
+# 2024-09-07
+add_executable(72 72.cc)
